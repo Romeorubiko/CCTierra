@@ -1,6 +1,9 @@
 # CCTierra
 Esto es un software desarrollado para la configuración del dron UAV del INTA. Ha sido desarrollado como un trabajo de la UC3M.
 
+Las versiones se pueden encontrar en:<br> 
+https://github.com/Romeorubiko/CCTierra/releases
+
 Se compone de dos proyectos:<br>
 El cliente  -> https://github.com/Romeorubiko/CCTierra<br>
 El servidor -> https://github.com/Romeorubiko/CCAire
